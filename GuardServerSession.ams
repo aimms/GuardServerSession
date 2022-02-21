@@ -9,7 +9,7 @@ LibraryModule Library_GuardServerSession {
 		- Declaration of time, preferably as SI_Time_Duration, including unit s.
 		- System library AIMMS PRO
 		- Repository library DataExchange
-		- AIMMS 4.79 or later
+		- AIMMS 4.83 or later
 		
 		Test WebUI and WinUI apps in Cloud/Prem/Developer"
 	}
